@@ -1,5 +1,0 @@
-module and_gate (out,a,d);
-   output out;
-   input a,d;
-   assign out = a&d;
-end module
